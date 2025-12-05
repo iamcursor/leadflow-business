@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008634826858",
+    "project_id": "leadflow-ba97d",
+    "storage_bucket": "leadflow-ba97d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008634826858:android:2f3f47bfb301d67a183a13",
+        "android_client_info": {
+          "package_name": "com.example.leadflow_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008634826858-qv88fehh8bqh79j1785gdsrcudbm94os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leadflow_business",
+            "certificate_hash": "26ccc0b30ee7f6abc5a9be9a459802f1ec786951"
+          }
+        },
+        {
+          "client_id": "1008634826858-g43i0jnuma79klen5abbtd64jrjalsf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHw_GvJXIDNJRsifNMPSQ2Trs-N-9s6KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008634826858-g43i0jnuma79klen5abbtd64jrjalsf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
